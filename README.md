@@ -6,3 +6,5 @@ run pd_getCSV.ipynb first to process the txt file and extract new features (mean
 run pd_saveall.ipynb next to save different people's info as a single csv file
 
 run pd_model.ipynb last to run ML models
+
+Files in app folder is to get dash-based webapp
